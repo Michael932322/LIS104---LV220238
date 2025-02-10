@@ -17,6 +17,7 @@ $projects = [
     'Ejemplo 2 - Guia 4' => 'Ejemplo_2.4\fibonachi.php',
     'Ejemplo 3 - Guia 4' => 'Ejemplo_3.4\elmayor.php',
     'Ejemplo 4 - Guia 4' => 'Ejemplo_4.4\select.php',
+    'Resultados - Guia 4' => 'Resultados_1.4\index.php',
 ];
 ?>
 
