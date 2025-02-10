@@ -12,6 +12,11 @@ $projects = [
     'Ejemplo 3 - Guia 3' => 'Ejemplo_3.3\index.php',
     'Ejemplo 4 - Guia 3' => 'Ejemplo_4.3\index.php',
     'Resultados - Guia 3' => 'Resultados_2.3\index.php',
+    'Clase 4 - Guia 4' => 'Ejemplo_clase4\funciones.php',
+    'Ejemplo 1 - Guia 4' => 'Ejemplo_1.4\monedas.php',
+    'Ejemplo 2 - Guia 4' => 'Ejemplo_2.4\fibonachi.php',
+    'Ejemplo 3 - Guia 4' => 'Ejemplo_3.4\elmayor.php',
+    'Ejemplo 4 - Guia 4' => 'Ejemplo_4.4\select.php',
 ];
 ?>
 
