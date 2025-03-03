@@ -19,6 +19,8 @@ $projects = [
     'Ejemplo 4 - Guia 4' => 'Ejemplo_4.4\select.php',
     'Resultados - Guia 4' => 'Resultados_1.4\index.php',
     'Clase 5 - Guia 5' => 'Ejemplo_clase5\index.php',
+    'Ejemplo 1 - Guia 6' => 'Ejemplo_1.6\autospoo.php',
+    'Ejemplo 2 - Guia 6' => 'Ejemplo_2.6\bankform.php',
 ];
 ?>
 
