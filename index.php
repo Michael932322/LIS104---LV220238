@@ -22,6 +22,8 @@ $guias = [
     'Guia 6' => [
         'Ejemplo 1' => 'Guia_6/Ejemplo_1.6/autospoo.php',
         'Ejemplo 2' => 'Guia_6/Ejemplo_2.6/bankform.php',
+        'Ejemplo 3' => 'Guia_6/Ejemplo_3.6/sueldoneto.php',
+        'Ejemplo 4' => 'Guia_6/Ejemplo_4.6/distanciadospuntos.php',
     ],
 ];
 
@@ -35,6 +37,7 @@ $resultados = [
     'Resultados Guia 2' => 'Resultados/Resultados_2.2/Calculo_dias.php',
     'Resultados Guia 3' => 'Resultados/Resultados_2.3/index.php',
     'Resultados Guia 4' => 'Resultados/Resultados_1.4/index.php',
+    'Resultados Guia 6' => 'Resultados/Resultados_1,2.6/index.php',
 ];
 ?>
 
@@ -44,7 +47,7 @@ $resultados = [
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menú de Proyectos</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="estilo.css">
     <script>
         function toggleSection(id) {
             var section = document.getElementById(id);
