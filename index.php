@@ -31,6 +31,7 @@ $ejercicios_clase = [
     'Clase 3' => 'Ejercicios_clase/Ejemplo_clase3/arreglos.php',
     'Clase 4' => 'Ejercicios_clase/Ejemplo_clase4/funciones.php',
     'Clase 5' => 'Ejercicios_clase/Ejemplo_clase5/index.php',
+    'Clase 7' => 'Ejercicios_clase/Ejemplo_clase7/lis.php',
 ];
 
 $resultados = [
@@ -38,6 +39,7 @@ $resultados = [
     'Resultados Guia 3' => 'Resultados/Resultados_2.3/index.php',
     'Resultados Guia 4' => 'Resultados/Resultados_1.4/index.php',
     'Resultados Guia 6' => 'Resultados/Resultados_1,2.6/index.php',
+    'Resultados Guia 7' => 'Resultados/Resultados_1.7/lis.php',
 ];
 ?>
 
