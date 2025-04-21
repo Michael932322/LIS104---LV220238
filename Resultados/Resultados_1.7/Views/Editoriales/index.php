@@ -14,7 +14,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <a class="btn btn-primary" href="<?= PATH ?>/Editoriales/create">Nuevo Editorial</a>
+                <a class="btn btn-primary" href="#">Nuevo Editorial</a>
                 <br><br>
                 <table class="table table-striped table-bordered" id="tabla">
                     <thead class="table-dark">
@@ -27,19 +27,19 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <?php foreach($editoriales as $editorial): ?>
+
+                    <?php foreach($editoriales as $editorial): ?>
                         <tr>
-                            <td><?=$editorial['codigo_editorial']?></td>
+                            <td><?= $editorial['codigo_editorial']?></td>
                             <td><?=$editorial['nombre_editorial']?></td>
                             <td><?=$editorial['contacto']?></td>
                             <td><?=$editorial['telefono']?></td>
-                            <td style="text-align: center;">
-                                <a href="<?= PATH . '/Editoriales/delete/' . $editorial['codigo_editorial'] ?>" class="btn btn-danger">Eliminar</a>
-                                <a href="<?= PATH . '/Editoriales/edit/' . $editorial['codigo_editorial'] ?>" class="btn btn-info">Editar</a>
-                            </td>
+                            <td><a href= "<?= PATH.'/Editoriales/delete/'.$editorial['codigo_editorial']?>"  class="btn btn-danger">Eliminar</a></td>
+                            
                         </tr>
-                        <?php endforeach; ?>
-                    </tbody>    
+                        <?php endforeach ?>
+                        
+                    </tbody>
                 </table>
             </div>
         </div>

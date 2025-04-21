@@ -14,8 +14,8 @@
             Autores
           </a>
           <ul class="dropdown-menu" aria-labelledby="autoresDropdown">
-            <li><a class="dropdown-item" href="<?= PATH ?>/Autores/create">Registrar autor</a></li>
-            <li><a class="dropdown-item" href="<?= PATH ?>/Autores">Ver lista de autores</a></li>
+            <li><a class="dropdown-item" href="#">Registrar autor</a></li>
+            <li><a class="dropdown-item" href="#">Ver lista de autores</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
@@ -32,8 +32,8 @@
             Editoriales
           </a>
           <ul class="dropdown-menu" aria-labelledby="editorialesDropdown">
-            <li><a class="dropdown-item" href="<?= PATH ?>/Editoriales/create">Registrar editorial</a></li>
-            <li><a class="dropdown-item" href="<?= PATH ?>/Editoriales">Ver lista de editoriales</a></li>
+            <li><a class="dropdown-item" href="#">Registrar editorial</a></li>
+            <li><a class="dropdown-item" href="#">Ver lista de editoriales</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
